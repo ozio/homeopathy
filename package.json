@@ -1,0 +1,17 @@
+{
+  "name": "homeopathy.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homeopathy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozio/homeopathy.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozio/homeopathy.js/issues"
+  },
+  "homepage": "https://github.com/ozio/homeopathy.js#readme"
+}
