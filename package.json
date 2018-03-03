@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/ozio/homeopathy.js.git"
   },
-  "keywords": [],
+  "keywords": ["homeopathy", "security", "injection", "xss", "mitm", "csrf"],
   "author": "Nikolay Solovyov <i@mr-ozio.ru> (ozio.io)",
   "license": "MIT",
   "bugs": {
