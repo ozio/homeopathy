@@ -1,7 +1,5 @@
 /* Water */
-function water(...args) {
-  return args;
-}
+function water() { console.log('Get well soon!') }
 
 /* Glass */
 class Glass {
@@ -11,7 +9,7 @@ class Glass {
 
   /* Pour something in */
   pourIn(substance, part) {
-    this.contents.push(
+    this.contents = this.contents.concat(
       new Array(part).fill(substance)
     );
 
@@ -20,7 +18,7 @@ class Glass {
 
   /* Pour out */
   pourOut(part) {
-    this.contents = this.contents.slice(0, part);
+    this.contents = this.contents.slice(part);
 
     return this.contents;
   }
