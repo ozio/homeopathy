@@ -14,7 +14,7 @@ npm install --save homeopathy
 const homeopathy = require('homeopathy');
 const remedy = homeopathy.createARemedy(
   eval, // some poison
-  6 // grade of dilution
+  30 // grade of dilution
 );
 remedy();
 ```
