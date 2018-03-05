@@ -1,5 +1,7 @@
 /* Water */
-function water() { console.log('Get well soon!') }
+function water() { 
+  // This function is empty, but is has a hidden memory (I don't know where, but you should trust me!). That is the cheat.
+}
 
 /* Glass */
 class Glass {
